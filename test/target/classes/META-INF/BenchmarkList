@@ -1,0 +1,4 @@
+JMH S 22 org.sample.MyBenchmark S 63 org.sample.jmh_generated.MyBenchmark_makeObjectWithSize_jmhTest S 18 makeObjectWithSize S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 12 MILLISECONDS E E 
+JMH S 17 org.sample.SetAdd S 50 org.sample.jmh_generated.SetAdd_addHashSet_jmhTest S 10 addHashSet S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 12 MICROSECONDS E E 
+JMH S 17 org.sample.SetAdd S 56 org.sample.jmh_generated.SetAdd_addLinkedHashSet_jmhTest S 16 addLinkedHashSet S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 12 MICROSECONDS E E 
+JMH S 17 org.sample.SetAdd S 50 org.sample.jmh_generated.SetAdd_addTreeSet_jmhTest S 10 addTreeSet S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 12 MICROSECONDS E E 
